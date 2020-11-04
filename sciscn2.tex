@@ -58,7 +58,7 @@
 
 \title{大型强子对撞机上CMS实验矢量玻色子散射的物理研究}{大型强子对撞机上CMS实验矢量玻色子散射的物理研究}
 
-\entitle{Vector Boson Scattering from the CMS experiment at the Large Hadron Collider}{Vector Boson Scattering from the CMS experiment at the Large Hadron Collider}
+\entitle{Vector Boson Scattering from the \add{Compact Muon Solenoid (CMS) Experiment} at the Large Hadron Collider}{Vector Boson Scattering from the \add{Compact Muon Solenoid (CMS) Experiment} at the Large Hadron Collider}
 
 \author[]{卢梦}{{meng.lu@cern.ch}}
 \author[]{戴自霖}{{daizl@pku.edu.cn}}
@@ -97,9 +97,9 @@
 %\comment{\dag~同等贡献}
 %\encomment{\dag~Equal contribution}
 
-\abstract{在标准模型中, Higgs 场结合电弱对称自发破缺机制赋予基本粒子质量, 同时 Higgs 玻色子的存在保证了有质量的矢量玻色子散射过程的幺正性不被破坏. 矢量玻色子散射过程除了对验证 Higgs机制具有重要意义, 还可以作为寻找标准模型之外的新物理的探针. 本文将在简要回顾标准模型中 Higgs 理论之后, 详细地介绍从基于蒙特卡洛样本对同号WW散射的早期研究, 到利用CMS实验一期和二期取数对矢量玻色子散射过程的寻找和利用该过程对超出标准模型的新物理进行的研究, 以及近期CMS实验组实现的LHC上第一次对矢量玻色子散射过程的极化部分的测量.}
+\abstract{在标准模型中, Higgs 场结合电弱对称自发破缺机制赋予基本粒子质量, 同时 Higgs 玻色子的存在保证了有质量的矢量玻色子散射过程的幺正性不被破坏. 矢量玻色子散射过程除了对验证 Higgs机制具有重要意义, 还可以作为寻找标准模型之外的新物理的探针. 本文将在简要回顾标准模型中 Higgs 理论之后, 详细地介绍从基于蒙特卡洛样本对\add{两个同电荷W玻色子}\rmv{同号WW}散射的早期研究, 到利用CMS实验一期和二期取数对矢量玻色子散射过程的寻找和利用该过程对超出标准模型的新物理进行的研究, 以及近期CMS实验组实现的LHC上第一次对矢量玻色子散射过程的极化部分的测量.}
 
-\enabstract{Triggered by the electroweak symmetry spontaneous breaking, the Higgs boson gives mass to fundamental particles, and ensures the unitarity safety of the vector boson scattering. Not only crucial to test Higgs mechanism, vector boson scattering can also be used to probe new physics beyond the standard model. In this paper, after a brief introduction of the standard model Higgs theory, we present a detailed review on the vector boson scattering research, from the early study on the same charged WW based on Monte Carlo samples, the searches for vector boson scattering and studies on the beyond standard model physics using data collected by CMS experiment during Run1 in 2012 and Run2 from 2016 to 2018, to the first measurement on the polarized vector boson scattering which is performed recently.}
+\enabstract{Triggered by the electroweak symmetry spontaneous breaking, the Higgs boson \add{provides} \rmv{gives} mass to fundamental particles\rmv{,} and ensures the unitarity safety of the vector boson scattering. \add{This scattering is crucial for testing the Higgs mechanism, and it} \rmv{Not only crucial to test Higgs mechanism, vector boson scattering} can also be used to probe new physics beyond the standard model. In this paper, after a brief introduction of the standard model Higgs theory, we present a detailed review \add{of the research} on the vector boson scattering\add{.}\rmv{research,} \add{This review includes an} \rmv{from the} early study on the \add{two} same\add{-}charged \add{W boson}\rmv{WW} based on Monte Carlo samples, the searches for vector boson scattering and studies on \rmv{the}beyond standard model physics using data collected by \add{the compact muon solenoid (CMS)}\rmv{CMS} experiment during Run\add{I}\rmv{1} in 2012 and Run\add{II}\rmv{2} \add{in 2016-2018}\rmv{from 2016 to 2018,} \add{as well as the recently achieved} \rmv{to the}first measurement \add{of}\rmv{on the} polarized vector boson scattering\rmv{which is performed recently}.}
 
 \keywords{标准模型, Higgs玻色子, 矢量玻色子散射, 新物理}
 
@@ -144,7 +144,7 @@ Higgs粒子被发现之后, 人们已经找到了标准模型预言的所有粒�
 
 在试图创建描述弱相互作用的理论时, 由于局域对称性的要求, 物理学家们在描述粒子运动的拉氏量中引入了规范场, 但是这种规范场对应的玻色子质量为零, 这与只观测到一种零质量矢量玻色子——光子的事实相悖, 因此如何赋予这些零质量玻色子质量成为难题. 另一方面, Nambu等人在研究超导现象时发现了对称性自发破缺 (spontaneous symmetry breaking, SSB) 现象\upcite{13,14}, 这一现象应用在粒子物理中将会导致零质量Goldstone玻色子. 在1964年, Higgs等人将SSB机制与局域对称性相结合, 发现规范场论中的长程力变成了短程力, 即零质量的规范玻色子通过与Goldstone玻色子结合形成了有质量的规范玻色子, 这为后来的电弱统一理论\upcite{15,16,17}奠定了基础. Higgs场经过SSB后剩余的物理自由度的激发态为Higgs玻色子.
 
-我们知道, 光子只有两个偏振自由度. 在没有引入SSB机制之前, 规范场的玻色子为零质量, 因此它们和光子一样, 也只有两个偏振自由度. 而通过SSB机制, 这些玻色子获得了质量. 规范玻色子``吃掉'' Goldstone玻色子, Goldstone玻色子成为其第三偏振分量, 即纵向偏振, 这表明矢量规范玻色子的纵向分量与SSB机制直接相关. 在Higgs玻色子被发现之后, 除了研究Higgs玻色子本身的性质, 比如质量的精确测量、与玻色子以及费米子之间的耦合是否与标准模型符合、自耦合强度等等\upcite{18,19}, 与有质量矢量玻色子的纵向极化相关的测量也极大地吸引着人们的兴趣. 
+我们知道, 光子只有两个偏振自由度. 在没有引入SSB机制之前, 规范场的玻色子为零质量, 因此它们和光子一样, 也只有两个偏振自由度. 而通过SSB机制, 这些玻色子获得了质量. 规范玻色子``吃掉'' Goldstone玻色子, Goldstone玻色子成为其第三偏振分量, 即纵向偏振, 这表明矢量规范玻色子的纵向分量与SSB机制直接相关. 在Higgs玻色子被发现之后, 除了研究Higgs玻色子本身的性质, 比如质量的精确测量、与玻色子以及费米子之间的耦合是否与标准模型符合、自耦合强度等等\upcite{63,19}, 与有质量矢量玻色子的纵向极化相关的测量也极大地吸引着人们的兴趣. 
 
 对纵向分量进行测量的黄金过程为矢量玻色子散射过程(Vector Boson Scattering, VBS), 该过程的典型费曼图如图 \ref{fig:3} 所示. 两个入射的部分子分别辐射出一个矢量玻色子, 这两个矢量玻色子之间发生散射得到另外两个矢量玻色子. 在探测器中, 入射部分子辐射之后的剩余部分将经历强子簇射(也包括一些电磁簇射), 形成两个喷注. VBS过程有以下几个特点: 
 
@@ -202,7 +202,7 @@ VBS过程可以根据散射出来的两个玻色子进行分类:
 \tabcolsep 39pt %space between two columns. 用于调整列间距
 \begin{tabular*}{\textwidth}{cccc}
 \toprule
-& 预期显著度 & 观测显著度 &
+\add{寻找道}& 预期显著度 & 观测显著度 &
 数据亮度/fb\textsuperscript{-1} \\ \hline
 VBS ssWW & 3.1$\sigma$ & 2.0$\sigma$ & 19.4 \\
 VBS $\Zboson\gamma$ & 2.1$\sigma$ & 3.0$\sigma$ & 19.7 \\
@@ -218,7 +218,7 @@ VBS $\Wboson\gamma$ & 1.5$\sigma$ & 2.7$\sigma$ & 19.7 \\
 \tabcolsep 39pt %space between two columns. 用于调整列间距
 \begin{tabular*}{\textwidth}{cccc}
 \toprule
-& 预期显著度 & 观测显著度 &
+\add{寻找道}& 预期显著度 & 观测显著度 &
 数据亮度/fb\textsuperscript{-1} \\ \hline
 VBS ssWW & 5.7$\sigma$ & 5.5$\sigma$ & 35.9\\
 VBS WZ & 2.5$\sigma$ & 2.2$\sigma$ & 35.9\\
@@ -532,7 +532,7 @@ LHC 目前处于第二次长期停机状态, 在 2022 年将进入 Run3 阶段. 
 \bibitem{5} Bayatian G L, Korablev A, Soha A, et al. CMS Physics: Technical Design Report, Volume I: Detector Performance and Software[R]. CMS-TDR-008-1, 2006
 \bibitem{6} CMS collaboration. CMS Physics: Technical Design Report, volume II: Physics Performance[J]. Journal of Physics G: Nuclear and Particle Physics, 2007, 34(6): 995
 \bibitem{7} Chatrchyan S, Khachatryan V, Sirunyan A M, et al. Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC[J]. Physics Letters B, 2012, 716(1): 30-61
-\bibitem{8} Dittmaier S, Mariotti C, Passarino G, et al. Handbook of LHC Higgs cross sections: 2[J]. Differential Distributions, 2012, 1201.
+\bibitem{8} Dittmaier S, Mariotti C, Passarino G, et al. Handbook of LHC Higgs cross sections: \add{2[J]. Differential Distributions, 2012, 1201.}
 \bibitem{63} Chatrchyan S, Khachatryan V, Sirunyan A M, et al. Observation of a new boson with mass near 125 GeV in pp collisions at $\sqrt {s}= 7$ and 8 TeV[J]. Journal of High Energy Physics, 2013, 2013(6): 81
 \bibitem{64} Sirunyan A M, Tumasyan A, Adam W, et al. Measurements of properties of the Higgs boson decaying into the four-lepton final state in pp collisions at $\sqrt {s}= 13$ TeV[J]. Journal of High Energy Physics, 2017, 2017(11): 47
 \bibitem{65} Sirunyan A M, Tumasyan A, Adam W, et al. Measurements of Higgs boson properties in the diphoton decay channel in proton-proton collisions at $\sqrt {s}= 13$ TeV[J]. Journal of High Energy Physics, 2018, 2018(11): 185
@@ -547,7 +547,6 @@ LHC 目前处于第二次长期停机状态, 在 2022 年将进入 Run3 阶段. 
 \bibitem{15} Glashow S L. Partial-symmetries of weak interactions[J]. Nuclear physics, 1961, 22(4): 579-588
 \bibitem{16} Weinberg S. A model of leptons[J]. Physical Review Letters, 1967, 19(21): 1264
 \bibitem{17} Salam A. Weak and electromagnetic interactions in Elementary particle theory, ed. N. Svartholm[J]. 1968: 367-377
-\bibitem{18} Chatrchyan S, Khachatryan V, Sirunyan A M, et al. Observation of a new boson with mass near 125 GeV in pp collisions at $\sqrt {s}= 7$ and 8 TeV[J]. Journal of High Energy Physics, 2013, 2013(6): 81
 \bibitem{19} Aad G, Abajyan T, Abbott B, et al. Evidence for the spin-0 nature of the Higgs boson using ATLAS data[J]. Physics Letters B, 2013, 726(1-3): 120-144
 \bibitem{20} Barger V, Cheung K, Han T, et al. Strong W+ W+ scattering signals at pp supercolliders[J]. Physical Review D, 1990, 42(9): 3052
 \bibitem{21} Szleper M. The Higgs boson and the physics of $ WW $ scattering before and after Higgs discovery[J]. arXiv preprint arXiv:1412.8367, 2014
