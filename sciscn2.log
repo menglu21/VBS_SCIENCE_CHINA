@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.26)  4 NOV 2020 14:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.26)  4 NOV 2020 19:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1184,12 +1184,12 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [4]
-Overfull \hbox (11.77263pt too wide) in alignment at lines 203--211
+Overfull \hbox (11.77263pt too wide) in alignment at lines 202--210
 [][][][] 
  []
 
 
-Overfull \hbox (11.77263pt too wide) in alignment at lines 219--229
+Overfull \hbox (11.77263pt too wide) in alignment at lines 218--228
 [][][][] 
  []
 
@@ -1200,22 +1200,22 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 234.
+(hyperref)                removing `\mathsurround' on input line 233.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 234.
+(hyperref)                removing `\z@' on input line 233.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 234.
+(hyperref)                removing `superscript' on input line 233.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 234.
+(hyperref)                removing `\@ifnextchar' on input line 233.
 
 
-Overfull \hbox (19.09677pt too wide) in paragraph at lines 240--241
+Overfull \hbox (19.09677pt too wide) in paragraph at lines 239--240
 []\TU/FandolSong-Regular(0)/m/n/10.53937 信 号 过 程 和 \TU/TeXGyreTermes(0)/m/n/10.
 53937 QCD \TU/FandolSong-Regular(0)/m/n/10.53937 本 底 样 本 利 用 \TU/TeXGyreTermes(
 0)/m/n/10.53937 PHANTOM| $[]$ \TU/FandolSong-Regular(0)/m/n/10.53937 产 生\TU/TeX
@@ -1245,15 +1245,15 @@ File: Figure-8.pdf Graphic file (type pdf)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 292.
+(hyperref)                removing `math shift' on input line 290.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gamma' on input line 292.
+(hyperref)                removing `\gamma' on input line 290.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 292.
+(hyperref)                removing `math shift' on input line 290.
 
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
@@ -1265,15 +1265,15 @@ File: Figure-9.pdf Graphic file (type pdf)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 307.
+(hyperref)                removing `math shift' on input line 305.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gamma' on input line 307.
+(hyperref)                removing `\gamma' on input line 305.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 307.
+(hyperref)                removing `math shift' on input line 305.
 
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
@@ -1289,34 +1289,35 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 [10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 331.
+(hyperref)                removing `math shift' on input line 329.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gamma' on input line 331.
+(hyperref)                removing `\gamma' on input line 329.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 331.
+(hyperref)                removing `math shift' on input line 329.
 
-File: Figure-11.pdf Graphic file (type pdf)
-<use Figure-11.pdf>
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [11]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 347.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gamma' on input line 347.
+File: Figure-11.pdf Graphic file (type pdf)
+<use Figure-11.pdf>
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 347.
+(hyperref)                removing `math shift' on input line 345.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gamma' on input line 345.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 345.
 
 File: Figure-12.pdf Graphic file (type pdf)
 <use Figure-12.pdf>
@@ -1325,13 +1326,13 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [12]
-File: Figure-13.pdf Graphic file (type pdf)
-<use Figure-13.pdf>
-
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [13]
+File: Figure-13.pdf Graphic file (type pdf)
+<use Figure-13.pdf>
+
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
@@ -1341,53 +1342,53 @@ File: Figure-14.pdf Graphic file (type pdf)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 401.
+(hyperref)                removing `\mathsurround' on input line 399.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 401.
+(hyperref)                removing `\z@' on input line 399.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 401.
+(hyperref)                removing `superscript' on input line 399.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 401.
+(hyperref)                removing `\@ifnextchar' on input line 399.
 
-File: Figure-15.pdf Graphic file (type pdf)
-<use Figure-15.pdf>
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [15]
+File: Figure-15.pdf Graphic file (type pdf)
+<use Figure-15.pdf>
 File: Figure-16.pdf Graphic file (type pdf)
 <use Figure-16.pdf>
-File: Figure-17.pdf Graphic file (type pdf)
-<use Figure-17.pdf>
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 432.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 432.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 432.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 432.
-
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [16]
+File: Figure-17.pdf Graphic file (type pdf)
+<use Figure-17.pdf>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 430.
+
 File: Figure-18a.pdf Graphic file (type pdf)
 <use Figure-18a.pdf>
 File: Figure-18b.pdf Graphic file (type pdf)
@@ -1397,21 +1398,20 @@ File: Figure-18c.pdf Graphic file (type pdf)
 File: Figure-19.pdf Graphic file (type pdf)
 <use Figure-19.pdf>
 
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 468.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 468.
+(hyperref)                removing `\mathsurround' on input line 466.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 468.
+(hyperref)                removing `\z@' on input line 466.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 468.
+(hyperref)                removing `superscript' on input line 466.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 466.
 
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
@@ -1451,12 +1451,12 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [24]
-Overfull \hbox (53.09187pt too wide) in paragraph at lines 626--626
+Overfull \hbox (53.09187pt too wide) in paragraph at lines 621--621
 [][] 
  []
 
 
-Overfull \hbox (5.50528pt too wide) in paragraph at lines 626--627
+Overfull \hbox (5.50528pt too wide) in paragraph at lines 621--622
 |  [] 
  []
 
@@ -1475,13 +1475,13 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 664.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 664.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 659.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 659.
  (./sciscn2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 664.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 664.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 659.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 659.
 Package rerunfilecheck Info: File `sciscn2.out' has not changed.
-(rerunfilecheck)             Checksum: D3F4DC71ACDDE78FCB4C99E56DF4BC69;1883.
+(rerunfilecheck)             Checksum: 02181F385359D9F7AB4B3E5A15B3B55C;1883.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1490,13 +1490,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 664.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 659.
  ) 
 Here is how much of TeX's memory you used:
- 20060 strings out of 479284
- 400568 string characters out of 5886219
- 713903 words of memory out of 5000000
- 37264 multiletter control sequences out of 15000+600000
+ 20037 strings out of 479284
+ 398991 string characters out of 5886219
+ 714101 words of memory out of 5000000
+ 37241 multiletter control sequences out of 15000+600000
  559190 words of font info for 199 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,12n,91p,1202b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
