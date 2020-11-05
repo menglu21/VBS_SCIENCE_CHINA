@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1604585314 "sciscn2.xdv" "sciscn2.pdf" "sciscn2" 1604585387
-  "sciscn2.xdv" 1604585314 584720 41d6ff46fc511cf06efe33090387b923 "xelatex"
+["xdvipdfmx"] 1604585929 "sciscn2.xdv" "sciscn2.pdf" "sciscn2" 1604585929
+  "sciscn2.xdv" 1604585928 584876 9f5acce669c912128705ae942320ac40 "xelatex"
   (generated)
   "sciscn2.pdf"
-["xelatex"] 1604585312 "sciscn2.tex" "sciscn2.xdv" "sciscn2" 1604585387
+["xelatex"] 1604585926 "sciscn2.tex" "sciscn2.xdv" "sciscn2" 1604585929
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -190,11 +190,11 @@
   "SCIS2020cn.cls" 1604387585 23776 0bfacba780bf3d4cfd79d9e8508631da ""
   "cctart.cls" 1604387585 251 714a3fdae3f7c962fd181bc40a9078da ""
   "picins.sty" 1604387585 17807 916739e9c8f52c6a085688f05d1594e2 ""
-  "sciscn2.aux" 1604585314 40343 6ebef536213f4a494a751e46a674dbde ""
-  "sciscn2.out" 1604585314 1883 02181f385359d9f7ab4b3e5a15b3b55c ""
-  "sciscn2.tex" 1604585309 85187 5a312de440e189a3e43a251e5033163e ""
+  "sciscn2.aux" 1604585928 40339 4e90a6cc3739b012016c699a43865110 ""
+  "sciscn2.out" 1604585928 1883 02181f385359d9f7ab4b3e5a15b3b55c ""
+  "sciscn2.tex" 1604585924 85153 d663ab728ba8090c11862f12480b55bc ""
   (generated)
+  "sciscn2.out"
   "sciscn2.log"
   "sciscn2.xdv"
-  "sciscn2.out"
   "sciscn2.aux"
