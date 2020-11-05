@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.26)  4 NOV 2020 19:53
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.26)  5 NOV 2020 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,6 +1283,22 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 File: Figure-10.pdf Graphic file (type pdf)
 <use Figure-10.pdf>
 
+Underfull \hbox (badness 6978) in paragraph at lines 318--318
+[]\TU/FandolSong-Regular(0)/b/n/7.52812 图 \TU/TeXGyreTermes(0)/b/n/7.52812 10 |
+\TU/TeXGyreTermes(0)/b/n/9 Z \TU/FandolSong-Regular(0)/b/n/9 玻 色 子 和 光 子 不 变 质 
+量 分 布\TU/TeXGyreTermes(0)/b/n/9 . \TU/FandolSong-Regular(0)/b/n/9 最 后 一 段 包 括 所
+ 有 $[][] \OML/cmm/m/it/9 > \OT1/cmr/m/n/9 420$ \TU/TeXGyreTermes(0)/b/n/9 GeV \
+TU/FandolSong-Regular(0)/b/n/9 的 事 例\TU/TeXGyreTermes(0)/b/n/9 .[]\TU/FandolSon
+g-Regular(0)/b/n/9 误 差 棒 表 示 数
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 318--318
+\TU/FandolSong-Regular(0)/b/n/9 据 的 统 计 误 差，|  阴 影 部 分 为 反 常 耦 合 信 号 和 本 底 的 系 
+统 误 差[][]|   []
+ []
+
+
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
@@ -1363,16 +1379,24 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 [15]
 File: Figure-15.pdf Graphic file (type pdf)
 <use Figure-15.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+[]\TU/FandolSong-Regular(0)/b/n/7.52812 图 \TU/TeXGyreTermes(0)/b/n/7.52812 15 |
+\TU/FandolSong-Regular(0)/b/n/9 简 化 的 \TU/TeXGyreTermes(0)/b/n/9 “\TU/FandolSon
+g-Regular(0)/b/n/9 基 于 粒 子\TU/TeXGyreTermes(0)/b/n/9 ” \TU/FandolSong-Regular(0
+)/b/n/9 的 \TU/TeXGyreTermes(0)/b/n/9 DNN \TU/FandolSong-Regular(0)/b/n/9 模 型，| 
+ 输 入 变 量 为 各 种 粒 子 的 性 质，| []随 着 输 出 层 逐 步 合
+ []
+
 File: Figure-16.pdf Graphic file (type pdf)
 <use Figure-16.pdf>
 
-Overfull \vbox (1.54317pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
+|   []   |   []   |   []
+ []
 
-
-[16]
 File: Figure-17.pdf Graphic file (type pdf)
 <use Figure-17.pdf>
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 430.
@@ -1389,14 +1413,39 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 430.
 
+
+Overfull \vbox (1.54317pt too high) has occurred while \output is active []
+
+
+[16]
 File: Figure-18a.pdf Graphic file (type pdf)
 <use Figure-18a.pdf>
 File: Figure-18b.pdf Graphic file (type pdf)
 <use Figure-18b.pdf>
 File: Figure-18c.pdf Graphic file (type pdf)
 <use Figure-18c.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--455
+[]\TU/FandolSong-Regular(0)/b/n/7.52812 图 \TU/TeXGyreTermes(0)/b/n/7.52812 18 |
+[]\TU/TeXGyreTermes(0)/b/n/9 PC1 \TU/FandolSong-Regular(0)/b/n/9 和 \TU/TeXGyreT
+ermes(0)/b/n/9 PC2 \TU/FandolSong-Regular(0)/b/n/9 的 二 维 分 布 图\TU/TeXGyreTermes
+(0)/b/n/9 . (a),(b) \TU/FandolSong-Regular(0)/b/n/9 和 \TU/TeXGyreTermes(0)/b/n/
+9 (c) \TU/FandolSong-Regular(0)/b/n/9 分 别 对 应[]$[]$[]$[]$\TU/TeXGyreTermes(0)/b
+/n/9 , []$[]$[]$[]$ \TU/FandolSong-Regular(0)/b/n/9 和 \TU/TeXGyreTermes(0)/b/n/
+9 qqZZ \TU/FandolSong-Regular(0)/b/n/9 样
+ []
+
 File: Figure-19.pdf Graphic file (type pdf)
 <use Figure-19.pdf>
+
+Underfull \hbox (badness 1102) in paragraph at lines 462--462
+[]\TU/FandolSong-Regular(0)/b/n/7.52812 图 \TU/TeXGyreTermes(0)/b/n/7.52812 19 |
+\TU/FandolSong-Regular(0)/b/n/9 不 同 方 法 得 到 的 纵 向 极 化 分 量 的 信 号 显 著 度\TU/TeXGyr
+eTermes(0)/b/n/9 , \TU/FandolSong-Regular(0)/b/n/9 蓝 色 标 记 为 只 考 虑 统 计 误 差\TU/T
+eXGyreTermes(0)/b/n/9 , \TU/FandolSong-Regular(0)/b/n/9 红 色 标 记 为 考 虑 统 计 误 差 以
+
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 466.
@@ -1424,13 +1473,23 @@ Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 [18]
 File: Figure-20.pdf Graphic file (type pdf)
 <use Figure-20.pdf>
-File: Figure-21.pdf Graphic file (type pdf)
-<use Figure-21.pdf>
+
+Underfull \hbox (badness 1122) in paragraph at lines 479--479
+[]\TU/FandolSong-Regular(0)/b/n/7.52812 图 \TU/TeXGyreTermes(0)/b/n/7.52812 20 |
+\TU/FandolSong-Regular(0)/b/n/9 测 量 $[]$$[]$$[]$$[]$ 和 $[]$$[]$$[]$$[]$[]截 面[]时
+[]|   [][]\TU/TeXGyreTermes(0)/b/n/9 BDT \TU/FandolSong-Regular(0)/b/n/9 输 出 的 
+分 布\TU/TeXGyreTermes(0)/b/n/9 , \TU/FandolSong-Regular(0)/b/n/9 其 中 \TU/TeXGyre
+Termes(0)/b/n/9 “$[][][][]$” \TU/FandolSong-Regular(0)/b/n/9 包 括 了 电 弱 的 极 化 部
+ []
+
 
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
 [19]
+File: Figure-21.pdf Graphic file (type pdf)
+<use Figure-21.pdf>
+
 Overfull \vbox (1.54317pt too high) has occurred while \output is active []
 
 
@@ -1487,18 +1546,15 @@ Package rerunfilecheck Info: File `sciscn2.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 659.
  ) 
 Here is how much of TeX's memory you used:
  20037 strings out of 479284
  398991 string characters out of 5886219
- 714101 words of memory out of 5000000
+ 715434 words of memory out of 5000000
  37241 multiletter control sequences out of 15000+600000
  559190 words of font info for 199 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,12n,91p,1202b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,91p,1394b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on sciscn2.pdf (25 pages).
