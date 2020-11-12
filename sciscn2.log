@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.26)  6 NOV 2020 16:50
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.26)  12 NOV 2020 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1365,6 +1365,11 @@ File: Figure-15.pdf Graphic file (type pdf)
 <use Figure-15.pdf>
 File: Figure-16.pdf Graphic file (type pdf)
 <use Figure-16.pdf>
+
+Overfull \vbox (1.54317pt too high) has occurred while \output is active []
+
+
+[16]
 File: Figure-17.pdf Graphic file (type pdf)
 <use Figure-17.pdf>
 
@@ -1384,11 +1389,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 427.
 
-
-Overfull \vbox (1.54317pt too high) has occurred while \output is active []
-
-
-[16]
 File: Figure-18a.pdf Graphic file (type pdf)
 <use Figure-18a.pdf>
 File: Figure-18b.pdf Graphic file (type pdf)
@@ -1397,7 +1397,6 @@ File: Figure-18c.pdf Graphic file (type pdf)
 <use Figure-18c.pdf>
 File: Figure-19.pdf Graphic file (type pdf)
 <use Figure-19.pdf>
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\mathsurround' on input line 463.
@@ -1488,12 +1487,15 @@ Package rerunfilecheck Info: File `sciscn2.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 655.
  ) 
 Here is how much of TeX's memory you used:
  20004 strings out of 479284
  396467 string characters out of 5886219
- 713171 words of memory out of 5000000
+ 713255 words of memory out of 5000000
  37208 multiletter control sequences out of 15000+600000
  559190 words of font info for 199 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
